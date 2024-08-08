@@ -1,0 +1,56 @@
+14:07:43.461 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Started**********
+14:07:43.465 [main] INFO  api_test.UserTests2 - **********Ceating User Started**********
+14:07:45.563 [main] INFO  api_test.UserTests2 - **********Ceating User complete**********
+14:07:45.573 [main] INFO  api_test.UserTests2 - **********Getting User Info Started**********
+14:08:16.012 [main] INFO  api_test.UserTests2 - **********Updating User Started**********
+14:08:16.793 [main] INFO  api_test.UserTests2 - **********Updating User Complete**********
+14:08:16.796 [main] INFO  api_test.UserTests2 - **********Deleting User Started**********
+14:08:17.210 [main] INFO  api_test.UserTests2 - **********Deleting User Complete**********
+14:08:17.210 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Complete**********
+14:10:03.867 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kpsre\eclipse-workspace\RA_GoRest\testng.xml"
+14:10:04.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kpsre\eclipse-workspace\RA_GoRest\testng.xml
+
+14:10:04.334 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Started**********
+14:10:04.334 [main] INFO  api_test.UserTests2 - **********Ceating User Started**********
+14:10:06.435 [main] INFO  api_test.UserTests2 - **********Ceating User complete**********
+14:10:06.444 [main] INFO  api_test.UserTests2 - **********Getting User Info Started**********
+14:10:06.878 [main] INFO  api_test.UserTests2 - **********Ceating User Info Complete**********
+14:10:06.881 [main] INFO  api_test.UserTests2 - **********Updating User Started**********
+14:10:07.340 [main] INFO  api_test.UserTests2 - **********Updating User Complete**********
+14:10:07.342 [main] INFO  api_test.UserTests2 - **********Deleting User Started**********
+14:10:07.779 [main] INFO  api_test.UserTests2 - **********Deleting User Complete**********
+14:10:07.779 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Complete**********
+18:13:42.546 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kpsre\eclipse-workspace\RA_GoRest\testng.xml"
+18:13:42.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kpsre\eclipse-workspace\RA_GoRest\testng.xml
+
+18:13:43.029 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Started**********
+18:13:43.029 [main] INFO  api_test.UserTests2 - **********Ceating User Started**********
+18:13:45.212 [main] INFO  api_test.UserTests2 - **********Ceating User complete**********
+18:13:45.224 [main] INFO  api_test.UserTests2 - **********Getting User Info Started**********
+18:13:45.711 [main] INFO  api_test.UserTests2 - **********Ceating User Info Complete**********
+18:13:45.714 [main] INFO  api_test.UserTests2 - **********Updating User Started**********
+18:13:46.195 [main] INFO  api_test.UserTests2 - **********Updating User Complete**********
+18:13:46.196 [main] INFO  api_test.UserTests2 - **********Deleting User Started**********
+18:13:46.668 [main] INFO  api_test.UserTests2 - **********Deleting User Complete**********
+18:13:46.668 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Complete**********
+18:19:36.934 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kpsre\eclipse-workspace\RA_GoRest\testng.xml"
+18:19:37.426 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Started**********
+18:19:37.426 [main] INFO  api_test.UserTests2 - **********Ceating User Started**********
+18:19:39.871 [main] INFO  api_test.UserTests2 - **********Ceating User complete**********
+18:19:39.887 [main] INFO  api_test.UserTests2 - **********Getting User Info Started**********
+18:19:40.360 [main] INFO  api_test.UserTests2 - **********Ceating User Info Complete**********
+18:19:40.362 [main] INFO  api_test.UserTests2 - **********Updating User Started**********
+18:19:41.100 [main] INFO  api_test.UserTests2 - **********Updating User Complete**********
+18:19:41.102 [main] INFO  api_test.UserTests2 - **********Deleting User Started**********
+18:19:41.526 [main] INFO  api_test.UserTests2 - **********Deleting User Complete**********
+18:19:41.526 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Complete**********
+19:12:02.504 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kpsre\eclipse-workspace\RA_GoRest\testng.xml"
+19:12:02.964 [main] INFO  api_test.UserTests2 - **********Execution of UserTests Started**********
+19:12:02.964 [main] INFO  api_test.UserTests2 - **********Ceating User Started**********
+19:12:05.015 [main] INFO  api_test.UserTests2 - **********Ceating User complete**********
+19:12:05.023 [main] INFO  api_test.UserTests2 - **********Getting User Info Started**********
+19:12:05.534 [main] INFO  api_test.UserTests2 - **********Ceating User Info Complete**********
+19:12:05.536 [main] INFO  api_test.UserTests2 - **********Updating User Started**********
+19:12:05.990 [main] INFO  api_test.UserTests2 - **********Updating User Complete**********
